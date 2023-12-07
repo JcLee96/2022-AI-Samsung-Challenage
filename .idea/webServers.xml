@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="69ebd275-6a44-4c9c-9563-78fa2082ee5b" name="compu@163.152.183.116:22(project_samsung)">
+        <fileTransfer accessType="SFTP" host="163.152.183.116" port="22" sshConfigId="169e386d-2074-44b6-b7ca-c8803204afcd" sshConfig="compu@163.152.183.116:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

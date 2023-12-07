@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="compu@163.152.183.105:22 (2)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="compu@163.152.183.105:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/lee/project_samsung2" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="compu@163.152.183.105:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/lee/project_samsung2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="compu@163.152.183.116:22(project_samsung)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/compu/project_samsung" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="compu@163.152.183.213:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/lju" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
